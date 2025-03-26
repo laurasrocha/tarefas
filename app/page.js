@@ -16,6 +16,7 @@ export default function page() {
 
                 <Link href="/pag2"
                  className="block text-center p-2 sm:p-1 w-[100px] h-[35px] text-xs sm:text-sm font-sans rounded-2xl border border-white mt-2 sm:font-semibold">Entrar</Link>
+           
             </div>
             <div className="w-full h-[400px] sm:h-[600px] flex items-center justify-center flex-col space-y-8">
                 <div className="sm:w-[400px] sm:h-[300px]">
